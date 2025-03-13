@@ -9,7 +9,7 @@ module.exports = {
     "Cookie": "",
     "CookieArray": [],
     "WastedCookie": [],
-    "unknownModels": ["claude-3-opus","claude-3-5-sonnet-20241022","claude_3_7_sonnet","claude_3_7_sonnet_thinking"],
+    "unknownModels": ["claude-3-opus","claude-3-5-sonnet-20241022","claude_3_7_sonnet","claude_3_7_sonnet_thinking,deepseek-r1"],
     "Cookiecounter": 5,
     "CookieIndex": 0,
     "ProxyPassword": "",
